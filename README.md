@@ -1,6 +1,6 @@
 ## OpenWrt Firmwares for NanoPi-R4S
 ### ⚠ WARNING: USE IT UNDER YOUR OWN RISK.
-### ⛔️ WARNING: THIS IS DEPRECATED.
+### [![NanoPi R4S ImmortalWrt](https://github.com/Tigerleader/NanoPi-R4S-OC/actions/workflows/immortalwrt-r4s-openwrt.yml/badge.svg)](https://github.com/Tigerleader/NanoPi-R4S-OC/actions/workflows/immortalwrt-r4s-openwrt.yml)
 - - -
 ## Introduction
 - ### Usage
